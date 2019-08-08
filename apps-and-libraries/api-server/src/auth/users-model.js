@@ -74,9 +74,17 @@ users.statics.createFromOauth = function(username) {
 
 };
 
-users.methods.can = function(capability) {
-  return true;
-  return capabilities[this.role].includes(capability);
+// old code
+// users.methods.can = function(capability) {
+//   return true;
+//   return capabilities[this.role].includes(capability);
+// };
+
+// new method called "can" capability @7:10pm
+users.methods.can = function(capability){
+  console.log('the capability user can is...',this.acl.capabilities);
+  // return true;
+  return this.acl.capabilities.includes(capability);
 };
 
 // Generate a JWT from the user id and a secret

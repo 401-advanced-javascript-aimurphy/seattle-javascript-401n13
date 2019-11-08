@@ -1,6 +1,6 @@
 # 401 Javascript: Post-Grad Roadmap
 
-So it's after week 10 and the Code Fellows 401 JS class is now over. You've shut down MongoDB for a bit, slept for a few days straight, and now you're up and ready to do something more. The frenzied pace that we've worked at for 2.5 months is gone, and the only pressure to perform is the pressure of unemployment. It's terrifying, but it's not as pressing when there isn't a concrete deadline to hit.
+So it's after week 10 and the Full-Stack JavaScript class is now over. You've shut down MongoDB for a bit, slept for a few days straight, and now you're up and ready to do something more. The frenzied pace that we've worked at for 2.5 months is gone, and the only pressure to perform is the pressure of unemployment. It's terrifying, but it's not as pressing when there isn't a concrete deadline to hit.
 
 The main danger of this point in time, between the end of class and the start of your careers, is the temptation to ease off on sharpening your skills. It's easier to make excuses now; easier to let other priorities get in the way.
 
@@ -113,9 +113,9 @@ As part of both 301 and 401 coursework, there were "warm-up" and "practice" chal
 
 **It is absolutely critical that you maintain a mastery of the language fundamentals, so that in your job and projects you can focus on actual problem solving, not implementation details.**
 
-[301 Code Challenges](https://codefellows.github.io/code-401-JS-pre-work/301-code-review)
+[301 Code Challenges](https://codefellows.github.io/code-401-JS-prework/301-code-challenges)
 
-[401 Warmups and Practice](https://codefellows.github.io/401-js-2019-guide/curriculum/warm-ups/)
+[401 Warmups and Practice](https://codefellows.github.io/code-401-javascript-guide/curriculum/warm-ups/)
 
 ## Skill Building
 One of the best ways to build on your skills is to apply new tech to things you already know. By focusing on interesting ways to modify, improve, and iterate on things that you know intimately, you can focus on the new technology itself, and not solving a new problem at the same time.
@@ -168,7 +168,7 @@ Projects do not need to simply be websites, storefronts, or other tactical appli
 - Publish your most used middleware and other libraries
   - 404, 500, model-finder, etc
   
-For more tactical things, what projects should you work on? The first thing that you should look to do is have a web presence. This means that you should have your own website (preferably with a custom email). Something like http://www.myname.com. Or, if you have a brand that you want to push forward or a name that applies to you, use that.
+For more tactical things, what projects should you work on? The first thing that you should look to do is have a web presence. This means that you should have your own website (preferably with a custom email). Something like <http://www.myname.com>. Or, if you have a brand that you want to push forward or a name that applies to you, use that.
 
 ### Your Portfolio Site
 Your portfolio site should tell a newcomer who you are, what your education is, and where your interests lie. For that last point, reinforce what your interests are through consistent blog posts. Figure out a schedule that works for you. Every day is likely entirely too frequent for most humans. How about every week? Or every other week? The interval isn't what matters so much as the consistency, so choose a pace that you can be consistent with.
@@ -213,7 +213,7 @@ Half the battle is being known, so showing your face early and often at various 
 **And don't simply go to meetups either, speak at them!** There's no reason why you can't give a lightning talk about every personal project you complete outside of your portfolio site. In fact make that a goal: whenever you complete a project, build an 8-minute lightning talk about it and submit it for presentation at a meetup!
 
 ### Accountability
-These things are all great in theory, but if no one holds our feet to the fire then we find it much easier to make excuses and fall out of our good habits. Find someone to hold you accountable. Oftentimes this is easiest with friends or loved ones, however they aren't always available. Luckily for you, you've got a whole set of classmates and other Code Fellows graduates to pull from to hold you accountable.
+These things are all great in theory, but if no one holds our feet to the fire then we find it much easier to make excuses and fall out of our good habits. Find someone to hold you accountable. Oftentimes this is easiest with friends or loved ones, however they aren't always available. Luckily for you, you've got a whole set of classmates and other graduates to pull from to hold you accountable.
 
 Make a pact with someone (or several people) to meet every week or every few days. Review each other's code. Edit each other's blog posts. Contribute to each other's projects, or collaborate on the same project. Set goals together and celebrate together when you meet those goals. “Let's each send out 10 applications this week!” “How about you write a blog post about AWS, I write one about Google App Engine, and we reference each other's posts?” “You build out the scaffolding for this project and I'll add this other app, since it's something I'm working on for one of my other projects.”
 
